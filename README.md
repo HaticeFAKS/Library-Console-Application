@@ -56,9 +56,3 @@ Bu sistem aşağıdaki işlemleri gerçekleştirebilir:
 
 1. Sistemi başlattıktan sonra, kullanıcıdan alınacak girişlere göre işlemler yapılır. 
 2. Kullanıcı, yeni kitap ekleme, üye ekleme ve diğer işlemleri gerçekleştirebilir.
-
-### Örnek Çıktılar
-
-- **Kitap Ekleme**:
-  ```bash
-  Java Programlama kitabı kütüphaneye eklendi. 📚
