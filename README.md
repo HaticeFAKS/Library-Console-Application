@@ -1,2 +1,2 @@
-# Library Console Application
- 
+# Kütüphane
+ Bir kütüphane konsol uygulamasıdır.
