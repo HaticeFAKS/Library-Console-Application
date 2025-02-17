@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Kütüphane
  Bir kütüphane konsol uygulamasıdır.
 =======
